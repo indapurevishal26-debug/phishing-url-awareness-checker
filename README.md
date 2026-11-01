@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Phishing URL Awareness Checker
 
 ## Project Overview
@@ -88,7 +87,5 @@ Use this tool for learning and awareness. Do not use it to access, disrupt, or t
 ## Author
 
 Name: Vishal Indapure
-=======
 # phishing-url-awareness-checker
 A beginner-friendly Python tool that checks URLs for common phishing warning signs and provides awareness-focused guidance.
->>>>>>> 2a3ca4c3280ce974214f9726ae3c029ab35f0229
